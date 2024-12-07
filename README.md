@@ -13,9 +13,8 @@ Here, a 'target' fractal is shown to the user, dependent on the difficulty
 selected, and the user must recreate this fractal using their allotted tools.
 
 Running this Project:
-If the .zip file has been properly extracted, simply running 'main.py' will run
-the entire program. No outside modules were used, and all background image
-filepaths are relative.
+The only dependency is cmu_graphics, which has detailed download instructions
+available online. Simply running 'main.py' will run the entire program. 
 
 Credits:
 Image sources are linked in the source code
